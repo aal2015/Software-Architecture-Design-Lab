@@ -1,7 +1,7 @@
 <h4> Following command lines to run the project</h4>
 <ul>
   <li>cd 'Counter Webapp Django'</li>
-  <li>docker-compose up</li>
+  <li>docker-compose up --build -d</li>
 </ul>
 
 </br>
